@@ -22,10 +22,23 @@ W当准备参加Hack-A-Sat CTF比赛时，最好的方法是从过去的Hack-A-S
 
 练习使用无线通信相关工具和技术，例如SDR（软件定义无线电）和GNURadio，来模拟和分析无线信号和通信系统，了解射频和无线通信基础知识，并练习使用相关工具和技术，是准备参加Hack-A-Sat CTF比赛中与Comms Systems/RF相关的挑战的最佳方法。
 
-博客中所用到的演示代码可从psk目录下或加入Web-PenTest社区QQ群获取。
+博客中所用到的演示代码可从StarLink_UE目录下或加入本文末尾社区QQ群获取。
 
 ![Image text](./group/sat-1.png)   
 <p align="center">卫星安全黑客</p>
+
+
+
+### [Sat-Hacking：Starlink终端逆向分析](https://blog.csdn.net/weixin_68076304/article/details/129526961?spm=1001.2014.3001.5502) 
+
+Starlink终端是SpaceX推出的卫星互联网终端设备，它的目的是为了提供高速、低延迟的卫星互联网服务。该终端设备采用了一种平板天线设计，可以自动搜索、跟踪并连接卫星信号，同时还具有数据处理、无线网络传输等多种功能。在 Starlink 卫星互联网系统中，用户设备端采用了专门设计的 UE 终端，可以实现与卫星网络的连接和通信。为了更好地了解 Starlink UE 终端的工作原理和内部结构，我们对其进行了固件进行了逆向分析。
+
+本文将分享 Starlink UE 终端的硬件和软件架构，Starlink固件的逆向方法以及其相关的通信协议和安全机制。希望通过这篇文章，为大家提供有关 Starlink UE 终端的详细信息和技术参考，以促进更广泛的技术交流和研究。
+
+博客中所用到的演示代码可从StarLink_UE目录下或加入本文末尾社区QQ群获取。
+
+![Image text](./group/satstation.jpg)   
+<p align="center">卫星地面接收站</p>
 
 
 
