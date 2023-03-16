@@ -52,6 +52,21 @@ Starlink终端是SpaceX推出的卫星互联网终端设备，它的目的是为
 <p align="center">卫星地面接收站</p>
 
 
+### [Sat-Hacking基础篇：QEMU 模拟MIPS架构环境](https://blog.csdn.net/weixin_68076304/article/details/129601382?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22129601382%22%2C%22source%22%3A%22weixin_68076304%22%7D) 
+
+在本篇文章中，我们将探讨如何使用 QEMU 模拟器模拟 MIPS架构设备的启动过程。MIPS 是一种具有硬件级安全性和实时性能的处理器架构，尤其适用于卫星系统等对安全性和实时性有严格要求的领域。
+
+本文将详细介绍如何利用 QEMU 模拟器在 MIPS 架构设备上进行卫星系统的安全性研究。QEMU 是一款开源的、跨平台的虚拟化软件，它支持多种处理器架构，能够提供硬件级别的仿真，使得开发人员能够在不同平台上进行软件调试和验证。
+
+
+读者也加入本文末尾社区QQ群获取更多卫星网络安全学习资料。
+
+![Image text](./group/chip.png)   
+<p align="center">mips芯片概念图</p>
+
+
+
+
 
 ## 加入Sat-Hacking社区
 * 若初学者面临环境搭建问题以及自身搭建环境出现困难的情况下，也可以加入QQ群获取测试环境镜像，可以直接在虚拟机里面运行测试代码，镜像包含Vmware安装程序及Windows环境下的所有测试程序。
