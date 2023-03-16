@@ -16,9 +16,20 @@
 
 ## Sat-Hacking安全系列博客学习路线
 
+
+### [Sat-Hacking：Starlink卫星通信频段](https://blog.csdn.net/weixin_68076304/article/details/129583780?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22129583780%22%2C%22source%22%3A%22weixin_68076304%22%7D) 
+
+了解卫星通信频段是学习卫星安全的基础理论知识，卫星通信频段是指用于卫星通信的无线电波频谱范围。在卫星通信中，无线电波在地面站与卫星之间传输信息，实现通信和数据传输。为了使各种卫星和地面系统之间的通信有效且互不干扰，国际电信联盟（ITU）将频谱划分为不同的频段，分配给不同的卫星通信服务。
+
+更多学习资料可加入本文末尾社区QQ群获取。
+
+![Image text](./group/satinspace.png)   
+<p align="center">科技卫星</p>
+
+
 ### [Sat-Hacking：hackasat无线通信类CTF深度剖析](https://blog.csdn.net/weixin_68076304/article/details/129451741?spm=1001.2014.3001.5501) 
 
-W当准备参加Hack-A-Sat CTF比赛时，最好的方法是从过去的Hack-A-Sat活动中练习挑战，特别是与Comms Systems/RF相关的挑战。这些挑战通常涉及与无线通信和射频技术相关的问题和任务，需要熟悉相关概念和技术。
+当准备参加Hack-A-Sat CTF比赛时，最好的方法是从过去的Hack-A-Sat活动中练习挑战，特别是与Comms Systems/RF相关的挑战。这些挑战通常涉及与无线通信和射频技术相关的问题和任务，需要熟悉相关概念和技术。
 
 练习使用无线通信相关工具和技术，例如SDR（软件定义无线电）和GNURadio，来模拟和分析无线信号和通信系统，了解射频和无线通信基础知识，并练习使用相关工具和技术，是准备参加Hack-A-Sat CTF比赛中与Comms Systems/RF相关的挑战的最佳方法。
 
