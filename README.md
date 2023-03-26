@@ -52,7 +52,7 @@ Starlink终端是SpaceX推出的卫星互联网终端设备，它的目的是为
 <p align="center">卫星地面接收站</p>
 
 
-### [Sat-Hacking：路由器逆向分析](https://mp.weixin.qq.com/s?__biz=Mzg3MzkzMDUzMg==&mid=2247483664&idx=1&sn=1337ac26cf4f8ae65975ad71ffb277b5&chksm=ced9cb5bf9ae424d091888964553f4c15c6894cb7427723d46846a5fa5ea67240adbd2e4d949#rd) 
+### [Sat-Hacking：路由器逆向分析-上篇](https://blog.csdn.net/weixin_68076304/article/details/129776236?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22129776236%22%2C%22source%22%3A%22weixin_68076304%22%7D) 
 
 在本篇文章中，我们将探讨 SpaceX Starlink 路由器的逆向分析过程。Starlink 是 SpaceX 推出的一项革命性的卫星互联网服务，旨在为全球偏远地区提供高速、低延迟的互联网连接。为了实现这一目标，Starlink 需要一个高性能的路由器来管理用户的互联网连接。逆向分析这种设备对于理解其工作原理和潜在的安全隐患至关重要。    
 
