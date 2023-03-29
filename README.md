@@ -69,7 +69,7 @@ Starlink终端是SpaceX推出的卫星互联网终端设备，它的目的是为
 
 博客中所用到的演示代码可从starlink-wifi-gen2目录下或加入本文末尾社区QQ群获取。
 
-![Image text](./group/starlinkrouter.png)   
+![Image text](./group/starlink-dish-and-router.jpg)   
 <p align="center">starlink路由器</p>
 
 
