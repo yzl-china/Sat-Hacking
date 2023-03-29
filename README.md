@@ -62,6 +62,18 @@ Starlink终端是SpaceX推出的卫星互联网终端设备，它的目的是为
 <p align="center">starlink路由器</p>
 
 
+
+### [Sat-Hacking：路由器逆向分析-中篇](https://blog.csdn.net/weixin_68076304/article/details/129843763?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22129843763%22%2C%22source%22%3A%22weixin_68076304%22%7D) 
+
+随着技术的不断发展和创新，SpaceX 已经推出了第二代 Starlink 路由器，这一代路由器拥有更高的性能和更多的功能，为用户提供更好的卫星互联网服务体验。在本文中，我们将对 SpaceX Starlink 路由器二代进行深入探讨，了解它的功能和工作原理，以及可能的逆向分析方法。
+
+博客中所用到的演示代码可从starlink-wifi-gen2目录下或加入本文末尾社区QQ群获取。
+
+![Image text](./group/starlinkrouter.png)   
+<p align="center">starlink路由器</p>
+
+
+
 ### [Sat-Hacking基础篇：QEMU 模拟MIPS架构环境](https://blog.csdn.net/weixin_68076304/article/details/129601382?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22129601382%22%2C%22source%22%3A%22weixin_68076304%22%7D) 
 
 在本篇文章中，我们将探讨如何使用 QEMU 模拟器模拟 MIPS架构设备的启动过程。MIPS 是一种具有硬件级安全性和实时性能的处理器架构，尤其适用于卫星系统等对安全性和实时性有严格要求的领域。
