@@ -73,6 +73,16 @@ Starlink终端是SpaceX推出的卫星互联网终端设备，它的目的是为
 <p align="center">starlink路由器</p>
 
 
+### [Sat-Hacking（6）：Starlink路由器逆向分析-下篇](https://blog.csdn.net/weixin_68076304/article/details/129893882?spm=1001.2014.3001.5502) 
+
+在之前文章中，我们介绍了 SpaceX Starlink 路由器二代的工作原理和逆向分析过程，以及该路由器在提供卫星互联网服务方面的重要性。接下来继续分析SpaceX Starlink 路由器二代的开源代码。
+
+博客中所用到的演示代码可从StarLink_router目录下或加入本文末尾社区QQ群获取。
+
+![Image text](./group/starlinkrouter.png)   
+<p align="center">starlink路由器</p>
+
+
 
 ### [Sat-Hacking基础篇：QEMU 模拟MIPS架构环境](https://blog.csdn.net/weixin_68076304/article/details/129601382?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22129601382%22%2C%22source%22%3A%22weixin_68076304%22%7D) 
 
