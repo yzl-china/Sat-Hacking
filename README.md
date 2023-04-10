@@ -92,7 +92,7 @@ Starlink终端是SpaceX推出的卫星互联网终端设备，它的目的是为
 
 更多代码可以加入本文末尾社区QQ群获取。
 
-![Image text](./group/router-iptables.jpg)   
+![Image text](./group/router.jpg)   
 <p align="center"></p>
 
 
