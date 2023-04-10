@@ -62,7 +62,6 @@ Starlink终端是SpaceX推出的卫星互联网终端设备，它的目的是为
 <p align="center">starlink路由器</p>
 
 
-
 ### [Sat-Hacking：路由器逆向分析-中篇](https://blog.csdn.net/weixin_68076304/article/details/129843763?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22129843763%22%2C%22source%22%3A%22weixin_68076304%22%7D) 
 
 随着技术的不断发展和创新，SpaceX 已经推出了第二代 Starlink 路由器，这一代路由器拥有更高的性能和更多的功能，为用户提供更好的卫星互联网服务体验。在本文中，我们将对 SpaceX Starlink 路由器二代进行深入探讨，了解它的功能和工作原理，以及可能的逆向分析方法。
@@ -81,6 +80,21 @@ Starlink终端是SpaceX推出的卫星互联网终端设备，它的目的是为
 
 ![Image text](./group/starlinkrouter.png)   
 <p align="center">starlink路由器</p>
+
+
+### [Sat-Hacking基础篇：iptables路由流量到云主机代理（上）](https://mp.weixin.qq.com/s?__biz=Mzg3MzkzMDUzMg==&mid=2247483710&idx=1&sn=bf08935fa7d910f0c416b76af4bc1d81&chksm=ced9cb75f9ae426309725a1afba110aed10c35e056250e83aff6bbd054a17d9787b8276a875a&token=494562786&lang=zh_CN#rd) 
+
+最近在做路由器安全审计，为starlink的路由审计继续做准备工作。
+
+假设我们已经获得了路由器的root权限，接下来要通过云主机上安装和配置Tinyproxy代理服务器，并将路由器上的流量透明地转发到代理服务器上，然后实现HTTP和HTTPS劫持来修改用户请求的目标网站。
+
+卫星网络安全方面，代理服务器同样可以用于加密和保护用户的流量，以确保敏感数据在通过卫星网络传输时不被窃取或篡改。此外，在某些情况下，代理服务器也可以用于控制和监视网络流量，以便进行安全审计和调查。故将本文作为卫星网络安全的基础文章来介绍。
+
+更多代码可以加入本文末尾社区QQ群获取。
+
+![Image text](./group/router-iptables.jpg)   
+<p align="center"></p>
+
 
 
 
